@@ -45,9 +45,13 @@ Teste e simulação de um Data Warehouse e um Data Lake;
 
 # Data Lake:
  - Descrição:
+   Este cenário é utilizado para gerar e trabalhar com diferentes dados que tem diferentes organizações
    
  - Resultados:
+ Como resultado é possível trabalhar com dados estruturados e não estruturados.
+
 
 
 # Link do código:
 https://colab.research.google.com/drive/1dq0k_AXERpX2hA_vHJ6IOUp-kMljUjje?usp=sharing
+https://colab.research.google.com/drive/14BdIs7X9lJynO7KiCVz27jJ0-UIJ04cA?usp=sharing
